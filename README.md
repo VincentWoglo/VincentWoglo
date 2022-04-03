@@ -1,5 +1,5 @@
-# vincentwoglo
-** 👋Hi There, I'm Koffivi **
+# Koffivi Vincent Woglo
+#### 👋Hi There, I'm Koffivi
 I'm a full-stack web developer based in the Colorado.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentWoglo&show_icons=true&theme=radical)
