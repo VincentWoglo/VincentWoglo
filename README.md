@@ -2,8 +2,6 @@
 #### 👋Hi There, I'm Koffivi
 I'm a full-stack web developer based in the Colorado.
 
-MailChimp, Litmus, Photoshop, , Adobe XD, Git, Gulp, Editor X,
-Javascript, ReactJS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentWoglo&show_icons=true&theme=radical)
 
 ### Languages I've Worked With
@@ -17,6 +15,9 @@ Javascript, ReactJS
 ![HotJar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 ![Editor X](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 📚Books I've Read So Far This Year (2022)
 ✅ Crushing It by Gary Vaynerchuck
 <br>
