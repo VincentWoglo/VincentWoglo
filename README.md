@@ -1,6 +1,6 @@
 # Koffivi Vincent Woglo
 #### 👋Hi There, I'm Koffivi
-I'm a full-stack web developer based in the Colorado.
+I'm a full-stack web developer based in the Colorado. Currently employed by 3:5 Creative[s]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentWoglo&show_icons=true&theme=radical)
 
