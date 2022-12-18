@@ -22,3 +22,7 @@ I'm a full-stack web developer based in the Colorado. Currently employed by 3:5 
 ✅ Crushing It by Gary Vaynerchuck
 <br>
 ✅ Business In The 21st Century
+<br>
+✅ Show Your Work! by Austin Kleon
+<br>
+✅ Zag by Marty Neumeier
